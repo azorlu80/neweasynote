@@ -26,6 +26,11 @@ export default {
     color:#6e6e6e;
 
 }
+.h1{
+    color:red;
+}
+
+
 .quote{
     cursor:pointer;
 
